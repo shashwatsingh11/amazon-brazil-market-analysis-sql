@@ -32,6 +32,6 @@ The dataset follows a relational structure consisting of multiple interconnected
 
 ## Project Resources
 
-- **SQL Scripts:** [View SQL Queries](scripts/analysis_queries.sql)  
-- **Dataset:** [Download Dataset](data/amazon_brazil_data.csv)  
-- **Report (PDF):** [Download Final Report](report/amazon_analysis_report.pdf)
+- **SQL Scripts:** [View SQL Queries](script/amazon_brazil_market_analysis.sql)  
+- **Dataset:** [Download Dataset](data)  
+- **Report (PDF):** [Download Final Report](docs/Amazon_Brazil_Market_Analysis.pdf)
