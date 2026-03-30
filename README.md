@@ -22,7 +22,8 @@ This project analyzes Amazon Brazil’s transactional and customer data to uncov
 
 ## Data Structure & Initial Checks
 
-The dataset consists of **e-commerce transactional data**, where each record represents orders, payments, customers, and product-level details. It captures financial, behavioral, and operational metrics used to analyze business performance.
+The dataset follows a relational structure consisting of multiple interconnected tables, including customers, orders, payments, order_items, products, and sellers. Each table captures a specific aspect of the e-commerce workflow, with relationships linking customers to orders, orders to payments, and order items to products and sellers. This structure enables detailed analysis of transaction behavior, product performance, and customer activity.
+![Data Model](docs/schema_diagram.png)
 
 
 
